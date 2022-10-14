@@ -3,6 +3,11 @@
   color: #fff;
 }
 
+.header-title {
+  float: left;
+  padding: 33px 20px;
+}
+
 .header-li li {
   float: left;
   padding: 33px 20px;
