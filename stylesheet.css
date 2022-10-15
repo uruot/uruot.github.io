@@ -3,6 +3,12 @@
   color: #fff;
 }
 
+.header-title {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
 .main-title h1{
   font-size: 150px;
   margin:0;
