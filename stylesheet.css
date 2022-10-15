@@ -9,6 +9,11 @@
   padding: 20px 40px;
 }
 
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
 .main-title h1{
   font-size: 150px;
   margin:0;
